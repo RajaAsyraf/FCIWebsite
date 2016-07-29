@@ -1,0 +1,164 @@
+body{ 
+  width:100%;
+  padding: 0;
+  margin: 0;
+}
+
+#header{
+text-align:center;
+background-color:white;
+}
+
+#main{
+background-color:#454450;
+width: 100%;
+height: 100%;
+padding: 0;
+}
+
+.content{
+background-color:white;
+width: 1000px;
+height: 3200px;
+margin-left: 150px;
+}
+
+.aside{
+height: 200px;
+width: 180px;
+float: left;
+padding: 20px;
+}
+
+#about, #news{
+
+height: 450px;
+width: 700px;
+float: right;
+padding: 20px;
+}
+
+#job{
+height: 200px;
+width: 700px;
+float: right;
+padding: 20px;
+}
+
+#project{
+height: 750px;
+width: 700px;
+float: right;
+padding: 20px;
+}
+
+#seminar{
+height: 550px;
+width: 700px;
+float: right;
+padding: 20px;
+}
+
+#feedback{
+height: 550px;
+width: 700px;
+float: right;
+padding: 20px;
+}
+
+
+h1{
+font-family: Impact, Charcoal, sans-serif;
+color: gray;
+}
+
+h2{
+font-family: "Arial Black", Gadget, sans-serif;
+color: gray;
+}
+
+p, li, td, th{
+font-family: Tahoma, Geneva, sans-serif;
+}
+
+
+#redbar{
+width: 100%;
+background-color:#E41B17;
+height: 2px;
+}
+
+#whitebar{
+width: 100%;
+background-color:white;
+height: 3px;
+}
+
+#bluebar{
+width: 100%;
+background-color:#0000A0;
+height: 4px;
+}
+
+#bluebar2{
+width: 100%;
+background-color:#0000A0;
+height: 3px;
+}
+
+#redbar2{
+width: 100%;
+background-color:#E41B17;
+height: 1px;
+}
+
+#whitebar2{
+width: 100%;
+background-color:white;
+height: 2px;
+}
+
+#imagefci
+{
+    width: 1000px;
+	margin-left: 150px;
+	padding: 0;
+}
+
+#fci {			width: 700px;
+				height: 100px;
+				border-collapse: collapse;}
+		#fci td, #fci th {	font-size: 1em;
+							border: 1px solid #081829;
+							padding: 3px 7px 2px 7px;}
+		#fci th {	font-size: 1.1em;
+					text-align: left;
+					padding-top: 5px;
+					padding-bottom: 4px;
+					background-color: #AAD4FF;
+					color: #ffffff;}
+		#fci tr.alt td {	color: #000000;
+							background-color: #ECEEF0;
+}
+
+.up{
+width: 70px;
+height: 70px;
+position: fixed;
+right:100px;
+margin-top: 450px;
+text-align:center;
+border-radius: 25px;
+}	
+
+div.up:hover {background-color:#373737;
+			}	
+
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+	height: 170px;
+}
